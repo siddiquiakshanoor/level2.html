@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width : 100%
+}
+#Text{
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+    text-align: center;
+}
+.colorfont{
+    color: red;
+    background-color: aqua;
+}
+i{
+    font-size: xx-large;
+}
+#colorimage{
+    background-image: url(CSS_image.webp);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-color: blue;
+    align-items: center;
+}
